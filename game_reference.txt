@@ -1,0 +1,1094 @@
+Score
+
+Computer : 18
+Player : 10
+Draw : 10
+
+Game 1
+
+O|X| 
+-----
+ | | 
+-----
+ | | 
+
+O|X| 
+-----
+ |X| 
+-----
+ | |O
+
+O|X|O
+-----
+ |X| 
+-----
+ |X|O
+
+The Computer has won Game 1
+
+Game 2
+
+O| | 
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| |O
+
+The Player has won Game 2
+
+Game 3
+
+O| | 
+-----
+ | | 
+-----
+ |X| 
+
+O|X|O
+-----
+ | | 
+-----
+ |X| 
+
+O|X|O
+-----
+ |O| 
+-----
+X|X| 
+
+O|X|O
+-----
+ |O| 
+-----
+X|X|O
+
+The Player has won Game 3
+
+Game 4
+
+ | | 
+-----
+ | | 
+-----
+X| | 
+
+ | |O
+-----
+X| | 
+-----
+X| | 
+
+O|X|O
+-----
+X| | 
+-----
+X| | 
+
+O|X|O
+-----
+X|O| 
+-----
+X| |X
+
+O|X|O
+-----
+X|O|X
+-----
+X|O|X
+
+Game 4 has ended in a draw
+
+Game 5
+
+O| |X
+-----
+ | | 
+-----
+ | | 
+
+O| |X
+-----
+ |O| 
+-----
+ | |X
+
+O| |X
+-----
+X|O|O
+-----
+ | |X
+
+O| |X
+-----
+X|O|O
+-----
+O|X|X
+
+O|O|X
+-----
+X|O|O
+-----
+O|X|X
+
+Game 5 has ended in a draw
+
+Game 6
+
+ | | 
+-----
+ | | 
+-----
+X| | 
+
+O|X| 
+-----
+ | | 
+-----
+X| | 
+
+O|X|O
+-----
+X| | 
+-----
+X| | 
+
+O|X|O
+-----
+X|O| 
+-----
+X| |X
+
+O|X|O
+-----
+X|O|O
+-----
+X|X|X
+
+The Computer has won Game 6
+
+Game 7
+
+ |X| 
+-----
+ | | 
+-----
+ | | 
+
+ |X|O
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+X| |X
+-----
+ | | 
+
+O|X|O
+-----
+X|O|X
+-----
+X| | 
+
+O|X|O
+-----
+X|O|X
+-----
+X| |O
+
+The Player has won Game 7
+
+Game 8
+
+O| | 
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| |O
+
+The Player has won Game 8
+
+Game 9
+
+O| | 
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| |O
+
+The Player has won Game 9
+
+Game 10
+
+O| | 
+-----
+ | | 
+-----
+ | |X
+
+O|X|O
+-----
+ | | 
+-----
+ | |X
+
+O|X|O
+-----
+ |X| 
+-----
+O| |X
+
+O|X|O
+-----
+O|X| 
+-----
+O| |X
+
+The Player has won Game 10
+
+Game 11
+
+O| | 
+-----
+ | | 
+-----
+X| | 
+
+O| | 
+-----
+ |O| 
+-----
+X| |X
+
+O|X| 
+-----
+ |O| 
+-----
+X|O|X
+
+O|X|O
+-----
+ |O|X
+-----
+X|O|X
+
+O|X|O
+-----
+O|O|X
+-----
+X|O|X
+
+Game 11 has ended in a draw
+
+Game 12
+
+ | | 
+-----
+ | | 
+-----
+ | |X
+
+ | |O
+-----
+ | | 
+-----
+X| |X
+
+X| |O
+-----
+ | | 
+-----
+X|O|X
+
+X| |O
+-----
+X|O| 
+-----
+X|O|X
+
+The Computer has won Game 12
+
+Game 13
+
+O| | 
+-----
+X| | 
+-----
+ | | 
+
+O| | 
+-----
+X|X| 
+-----
+ | |O
+
+O| |X
+-----
+X|X|O
+-----
+ | |O
+
+O| |X
+-----
+X|X|O
+-----
+O|X|O
+
+O|O|X
+-----
+X|X|O
+-----
+O|X|O
+
+Game 13 has ended in a draw
+
+Game 14
+
+ | | 
+-----
+ | | 
+-----
+X| | 
+
+ | |O
+-----
+ | |X
+-----
+X| | 
+
+ |X|O
+-----
+ | |X
+-----
+X| |O
+
+X|X|O
+-----
+ |O|X
+-----
+X| |O
+
+X|X|O
+-----
+O|O|X
+-----
+X|X|O
+
+Game 14 has ended in a draw
+
+Game 15
+
+ | | 
+-----
+X| | 
+-----
+ | | 
+
+O| | 
+-----
+X|X| 
+-----
+ | | 
+
+O| |X
+-----
+X|X|O
+-----
+ | | 
+
+O|O|X
+-----
+X|X|O
+-----
+X| | 
+
+The Computer has won Game 15
+
+Game 16
+
+O| | 
+-----
+ | | 
+-----
+X| | 
+
+O| | 
+-----
+ |O| 
+-----
+X| |X
+
+O| |O
+-----
+ |O| 
+-----
+X|X|X
+
+The Computer has won Game 16
+
+Game 17
+
+ | | 
+-----
+ | | 
+-----
+X| | 
+
+ |O| 
+-----
+ | | 
+-----
+X|X| 
+
+O|O| 
+-----
+ | | 
+-----
+X|X|X
+
+The Computer has won Game 17
+
+Game 18
+
+ |X| 
+-----
+ | | 
+-----
+ | | 
+
+ |X|O
+-----
+X| | 
+-----
+ | | 
+
+ |X|O
+-----
+X| |X
+-----
+ | |O
+
+O|X|O
+-----
+X|X|X
+-----
+ | |O
+
+The Computer has won Game 18
+
+Game 19
+
+ | | 
+-----
+ | |X
+-----
+ | | 
+
+ |O| 
+-----
+X| |X
+-----
+ | | 
+
+O|O| 
+-----
+X|X|X
+-----
+ | | 
+
+The Computer has won Game 19
+
+Game 20
+
+ | |X
+-----
+ | | 
+-----
+ | | 
+
+ |O|X
+-----
+ | | 
+-----
+ |X| 
+
+O|O|X
+-----
+ | | 
+-----
+ |X|X
+
+O|O|X
+-----
+ |O| 
+-----
+X|X|X
+
+The Computer has won Game 20
+
+Game 21
+
+ | | 
+-----
+X| | 
+-----
+ | | 
+
+X| |O
+-----
+X| | 
+-----
+ | | 
+
+X| |O
+-----
+X|O| 
+-----
+X| | 
+
+The Computer has won Game 21
+
+Game 22
+
+ | | 
+-----
+ |O| 
+-----
+ |X| 
+
+O| | 
+-----
+ |O| 
+-----
+ |X|X
+
+O| |O
+-----
+ |O| 
+-----
+X|X|X
+
+The Computer has won Game 22
+
+Game 23
+
+O| | 
+-----
+ |X| 
+-----
+ | | 
+
+O|X|O
+-----
+ |X| 
+-----
+ | | 
+
+O|X|O
+-----
+O|X| 
+-----
+ |X| 
+
+The Computer has won Game 23
+
+Game 24
+
+ |X| 
+-----
+ | | 
+-----
+ | | 
+
+ |X| 
+-----
+ |O|X
+-----
+ | | 
+
+ |X|O
+-----
+ |O|X
+-----
+X| | 
+
+X|X|O
+-----
+ |O|X
+-----
+X| |O
+
+X|X|O
+-----
+O|O|X
+-----
+X|X|O
+
+Game 24 has ended in a draw
+
+Game 25
+
+O| | 
+-----
+ | |X
+-----
+ | | 
+
+O| | 
+-----
+ |O|X
+-----
+ | |X
+
+O| |O
+-----
+ |O|X
+-----
+X| |X
+
+O|X|O
+-----
+ |O|X
+-----
+X|O|X
+
+O|X|O
+-----
+O|O|X
+-----
+X|O|X
+
+Game 25 has ended in a draw
+
+Game 26
+
+ | | 
+-----
+ | | 
+-----
+X| | 
+
+O|X| 
+-----
+ | | 
+-----
+X| | 
+
+O|X| 
+-----
+ |X| 
+-----
+X| |O
+
+O|X|X
+-----
+ |X| 
+-----
+X|O|O
+
+The Computer has won Game 26
+
+Game 27
+
+O| | 
+-----
+ |X| 
+-----
+ | | 
+
+O|X|O
+-----
+ |X| 
+-----
+ | | 
+
+O|X|O
+-----
+X|X| 
+-----
+ |O| 
+
+O|X|O
+-----
+X|X|X
+-----
+ |O|O
+
+The Computer has won Game 27
+
+Game 28
+
+ | |X
+-----
+ | | 
+-----
+ | | 
+
+ | |X
+-----
+ |O| 
+-----
+X| | 
+
+X| |X
+-----
+ |O| 
+-----
+X| |O
+
+X|O|X
+-----
+X|O| 
+-----
+X| |O
+
+The Computer has won Game 28
+
+Game 29
+
+O| | 
+-----
+ | | 
+-----
+X| | 
+
+O| | 
+-----
+ |O| 
+-----
+X| |X
+
+O|X| 
+-----
+ |O| 
+-----
+X|O|X
+
+O|X| 
+-----
+X|O|O
+-----
+X|O|X
+
+O|X|O
+-----
+X|O|O
+-----
+X|O|X
+
+Game 29 has ended in a draw
+
+Game 30
+
+O| | 
+-----
+ | |X
+-----
+ | | 
+
+O| | 
+-----
+ |X|X
+-----
+ | |O
+
+O| | 
+-----
+O|X|X
+-----
+X| |O
+
+O|X|O
+-----
+O|X|X
+-----
+X| |O
+
+O|X|O
+-----
+O|X|X
+-----
+X|O|O
+
+Game 30 has ended in a draw
+
+Game 31
+
+O| | 
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| |O
+
+The Player has won Game 31
+
+Game 32
+
+ | |O
+-----
+ | |X
+-----
+ | | 
+
+ | |O
+-----
+ |O|X
+-----
+X| | 
+
+O| |O
+-----
+ |O|X
+-----
+X| |X
+
+O|O|O
+-----
+ |O|X
+-----
+X| |X
+
+The Player has won Game 32
+
+Game 33
+
+O| | 
+-----
+X| | 
+-----
+ | | 
+
+O|X|O
+-----
+X| | 
+-----
+ | | 
+
+O|X|O
+-----
+X|X| 
+-----
+ | |O
+
+O|X|O
+-----
+X|X|O
+-----
+ | |O
+
+The Player has won Game 33
+
+Game 34
+
+ | | 
+-----
+ | | 
+-----
+ | |X
+
+ | |O
+-----
+ |X| 
+-----
+ | |X
+
+O|X|O
+-----
+ |X| 
+-----
+ | |X
+
+O|X|O
+-----
+ |X|X
+-----
+ |O|X
+
+O|X|O
+-----
+O|X|X
+-----
+X|O|X
+
+Game 34 has ended in a draw
+
+Game 35
+
+O| | 
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ | |X
+-----
+ | | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| | 
+
+O|X|O
+-----
+ |O|X
+-----
+X| |O
+
+The Player has won Game 35
+
+Game 36
+
+O| | 
+-----
+ | | 
+-----
+X| | 
+
+O|O|X
+-----
+ | | 
+-----
+X| | 
+
+O|O|X
+-----
+O|X| 
+-----
+X| | 
+
+The Computer has won Game 36
+
+Game 37
+
+X| | 
+-----
+ | | 
+-----
+ | | 
+
+X|O| 
+-----
+ | | 
+-----
+X| | 
+
+X|O|X
+-----
+O| | 
+-----
+X| | 
+
+X|O|X
+-----
+O|X| 
+-----
+X| |O
+
+The Computer has won Game 37
+
+Game 38
+
+ | |X
+-----
+ | | 
+-----
+ | | 
+
+ | |X
+-----
+ | | 
+-----
+X| |O
+
+X| |X
+-----
+ |O| 
+-----
+X| |O
+
+X|O|X
+-----
+X|O| 
+-----
+X| |O
+
+The Computer has won Game 38
+
